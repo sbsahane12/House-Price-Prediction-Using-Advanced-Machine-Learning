@@ -1,6 +1,6 @@
 
 # Machine-Learning-Projects-for-2023
-# [Project 1: House Price Prediction Using Advanced Machine Learning](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git)
+# [Project 1: House Price Prediction Using Advanced Machine Learning][(https://github.com/sbsahane12/House-Price-Prediction-Using-Advanced-Machine-Learning.git)]
 This is a project I did for my masters research paper, where I build a House Price Prediction system for a House dataset.
 ## Install
 This project requires Python 3.6 and the following libraries installed:
